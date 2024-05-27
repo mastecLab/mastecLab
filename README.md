@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-**Irreverent Maker**  
 I like to make things happen. I make open hardware at @masteclab, a site for university students where they can find code for their projects.
 
-🔭 **I’m currently working on:**  
-&nbsp;&nbsp;&nbsp;&nbsp;Mastec Lab
+🔭 I’m currently working on Mastec Lab
 
 🌱 **I’m currently learning:**  
 &nbsp;&nbsp;&nbsp;&nbsp;[Specify what you are learning, if you wish]
