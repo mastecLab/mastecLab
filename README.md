@@ -4,11 +4,9 @@ I like to make things happen. I make open hardware at @masteclab, a site for uni
 
 🔭 I’m currently working on Mastec Lab
 
-🌱 **I’m currently learning:**  
-&nbsp;&nbsp;&nbsp;&nbsp;[Specify what you are learning, if you wish]
+🌱 I’m currently learning 
 
-👯 **I’m looking to collaborate on:**  
-&nbsp;&nbsp;&nbsp;&nbsp;Open source projects for educational purposes
+👯 I’m looking to collaborate on Open source projects for educational purposes
 
 🤔 **I’m looking for help with:**  
 &nbsp;&nbsp;&nbsp;&nbsp;Developing and maintaining educational resources
