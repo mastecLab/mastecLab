@@ -17,7 +17,7 @@ I make open software at @masteclab, a site for university students where they ca
 ⚡ Fun fact: I like robots
 
 
-## Check out the GitHub repository:
+# Check out the GitHub repository:
 
 <div>
   <p>
