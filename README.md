@@ -2,6 +2,8 @@
 
 I make open software at @masteclab, a site for university students where they can find code for their projects
 
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.laxmena)](https://github.com/laxmena) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/laxmena?tab=followers)
+
 🔭 I’m currently working on Mastec Lab
 
 🌱 I’m currently learning 
