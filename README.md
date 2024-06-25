@@ -27,14 +27,12 @@ __Check out the GitHub repository:__
     <a href="https://github.com/masteclab/openai">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=masteclab&repo=openai" alt="GitHub Stats" />
     </a>
-
     <a href="https://github.com/masteclab/arduino">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=masteclab&repo=arduino" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/masteclab/python">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=masteclab&repo=python" alt="GitHub Stats" />
     </a>
-
     
   </p>
 </div>
