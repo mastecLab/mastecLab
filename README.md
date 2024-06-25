@@ -2,7 +2,7 @@
 
 I make open software at @masteclab, a site for university students where they can find code for their projects
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=masteclab)](https://github.com/masteclab) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/jart?tab=followers)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=masteclab)](https://github.com/masteclab) [![GitHub followers](https://img.shields.io/github/followers/masteclab.svg?style=social&label=Follow)](https://github.com/jart?tab=followers)
 
 🔭 I’m currently working on Mastec Lab
 
