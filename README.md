@@ -16,6 +16,20 @@ I make open software at @masteclab, a site for university students where they ca
 
 ⚡ Fun fact: I like robots
 
+
+<div>
+  <p>
+    <a href="https://github.com/laxmena/PyCalendly">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=masteclab&repo=matlab" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/laxmena/CloudOrg-Simulator">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=masteclab&repo=openai" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
+
+
+
 ``````
                              \\\\\\\
                             \\\\\\\\\\\\
