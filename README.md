@@ -12,6 +12,8 @@ I make open software at @masteclab, a site for university students where they ca
 
 💬 Ask me about open hardware, educational projects, coding for beginners
 
+⚡ Fun fact: I like robots
+
 ``````
                              \\\\\\\
                             \\\\\\\\\\\\
