@@ -28,7 +28,7 @@ __Check out the GitHub repository:__
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=masteclab&repo=openai&theme=vuex"/>
     </a>
     <a href="https://github.com/masteclab/arduino">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=masteclab&repo=arduino&theme=buefy"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=masteclab&repo=arduino&theme=element"/>
     </a>
     <a href="https://github.com/masteclab/python">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=masteclab&repo=python&theme=buefy"/>
