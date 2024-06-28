@@ -31,7 +31,7 @@ __Check out the GitHub repository:__
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=masteclab&repo=arduino&theme=bufy"/>
     </a>
     <a href="https://github.com/masteclab/python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=masteclab&repo=python&theme=bulma"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=masteclab&repo=python&theme=bufy"/>
     </a>
     
   </p>
