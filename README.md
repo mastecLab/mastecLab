@@ -22,7 +22,7 @@ __Check out the GitHub repository:__
 <div>
   <p>
     <a href="https://github.com/masteclab/matlab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=masteclab&repo=matlab&theme=buefy"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=masteclab&repo=matlab&theme=bufy"/>
     </a>
     <a href="https://github.com/masteclab/openai">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=masteclab&repo=openai&theme=buefy"/>
