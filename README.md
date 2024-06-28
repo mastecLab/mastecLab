@@ -20,7 +20,7 @@ I make open software at @masteclab, a site for university students where they ca
 __Check out the GitHub repository:__
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=masteclab&repo=github-readme-stats)](https://github.com/matlab/github-readme-stats)
 
 <div>
   <p>
