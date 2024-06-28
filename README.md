@@ -23,16 +23,16 @@ __Check out the GitHub repository:__
 <div>
   <p>
     <a href="https://github.com/masteclab/matlab">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=masteclab&repo=matlab" alt="" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=masteclab&repo=matla" alt="" />
     </a>
     <a href="https://github.com/masteclab/openai">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=masteclab&repo=openai" alt="" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=masteclab&repo=opena" alt="" />
     </a>
     <a href="https://github.com/masteclab/arduino">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=masteclab&repo=arduino" alt="" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=masteclab&repo=arduio" alt="" />
     </a>
     <a href="https://github.com/masteclab/python">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=masteclab&repo=python" alt="" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=masteclab&repo=pythn" alt="" />
     </a>
     
   </p>
