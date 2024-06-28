@@ -70,4 +70,8 @@ __Check out the GitHub repository:__
  
 
 
+<a href="https://twitter.com/masteclab">
+  <img align="right" alt="mastec lab | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+
 
