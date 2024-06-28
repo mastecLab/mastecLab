@@ -25,13 +25,13 @@ __Check out the GitHub repository:__
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=masteclab&repo=matlab&theme=vue"/>
     </a>
     <a href="https://github.com/masteclab/openai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=masteclab&repo=openai&theme=vuex"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=masteclab&repo=openai&theme=vue"/>
     </a>
     <a href="https://github.com/masteclab/arduino">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=masteclab&repo=arduino&theme=element"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=masteclab&repo=arduino&theme=vue"/>
     </a>
     <a href="https://github.com/masteclab/python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=masteclab&repo=python&theme=buefy"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=masteclab&repo=python&theme=vue"/>
     </a>
     
   </p>
