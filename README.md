@@ -22,16 +22,16 @@ __Check out the GitHub repository:__
 <div>
   <p>
     <a href="https://github.com/masteclab/matlab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=masteclab&repo=matlab&theme=Buefy"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=masteclab&repo=matlab&theme=buefy"/>
     </a>
     <a href="https://github.com/masteclab/openai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=masteclab&repo=openai&theme=Buefy"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=masteclab&repo=openai&theme=buefy"/>
     </a>
     <a href="https://github.com/masteclab/arduino">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=masteclab&repo=arduino&theme=Buefy"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=masteclab&repo=arduino&theme=buefy"/>
     </a>
     <a href="https://github.com/masteclab/python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=masteclab&repo=python&theme=Buefy"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=masteclab&repo=python&theme=buefy"/>
     </a>
     
   </p>
