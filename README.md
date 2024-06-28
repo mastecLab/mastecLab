@@ -22,7 +22,7 @@ __Check out the GitHub repository:__
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=masteclab&repo=gmatlab)]([https://github.com/masteclab/matlab])
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=matlab)](https://github.com/masteclab/matlab)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=matlab)]([https://github.com/masteclab/matlab](https://github.com/masteclab/matlab))
 
 <div>
   <p>
