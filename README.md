@@ -20,10 +20,6 @@ I make open software at @masteclab, a site for university students where they ca
 __Check out the GitHub repository:__
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=masteclab&repo=gmatlab)]([https://github.com/masteclab/matlab])
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=matlab)]([https://github.com/masteclab/matlab])
-
 <div>
   <p>
     <a href="https://github.com/masteclab/matlab">
