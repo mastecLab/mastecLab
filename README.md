@@ -24,8 +24,6 @@ __Check out the GitHub repository:__
     <a href="https://github.com/masteclab/matlab">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=masteclab&repo=matlab" alt="GitHub Stats" />
     </a>
-    This repository contains MATLAB scripts and functions designed for students
-    
     <a href="https://github.com/masteclab/openai">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=masteclab&repo=openai" alt="GitHub Stats" />
     </a>
